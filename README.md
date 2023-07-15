@@ -1,10 +1,10 @@
 # Sine Wave Generator
 
-This scrip![equation](https://github.com/RedisMadani/Sine-Wave/assets/136177376/1e103556-9bd2-4de8-8c7a-76088b95da00)
+![equation](https://github.com/RedisMadani/Sine-Wave/assets/136177376/1e103556-9bd2-4de8-8c7a-76088b95da00)
 
 ![screenshot](https://github.com/RedisMadani/Sine-Wave/assets/136177376/25fb99a7-1c62-46ac-84ff-9188c6ef39e1)
 
-t generates a sine wave using the turtle graphics library in Python. The user can customize the amplitude, wavelength, horizontal shift, and vertical shift of the wave.
+This script generates a sine wave using the turtle graphics library in Python. The user can customize the amplitude, wavelength, horizontal shift, and vertical shift of the wave.
 
 ## Prerequisites
 
